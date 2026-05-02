@@ -3,7 +3,7 @@
 ## Full-Stack Developer
 
 - Building production-ready projects with **Next.js + GraphQL + MongoDB**
-- Always learning — currently going deeper into advanced GraphQL (federation, caching)  
+- Always learning 
 - Reach me anytime → [**omooladev@gmail.com**](mailto:omooladev@gmail.com)
 
 ### 🛠 Tech Stack
